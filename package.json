@@ -1,0 +1,23 @@
+{
+  "name": "09-nodejs-readme",
+  "version": "1.0.0",
+  "description": "Command line utility built with NodeJS to automatically build a professional looking README.md file for my projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riversidempls/09-NodeJS-README.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riversidempls/09-NodeJS-README/issues"
+  },
+  "homepage": "https://github.com/riversidempls/09-NodeJS-README#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}

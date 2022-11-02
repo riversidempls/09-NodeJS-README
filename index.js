@@ -195,8 +195,9 @@ ${answers.techTools}
     
 ## How to Contribute
     
--If you'd like to become a contributor, here's how you can help:
-${answers.contrib}
+If you'd like to become a contributor, here's how you can help:
+
+- ${answers.contrib}
     
 ## Tests
   

@@ -53,8 +53,8 @@ Javascript,Node.JS
     
 ## How to Contribute
     
--If you'd like to become a contributor, here's how you can help:
-If you want to help out, email me! OR contact via GitHub
+- If you'd like to become a contributor, here's how you can help:
+- If you want to help out, email me! OR contact via GitHub
     
 ## Tests
   
